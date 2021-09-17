@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madison Armstrong | The Bay Lab</title>
+    <link>https://baylab.github.io/author/madison-armstrong/</link>
+      <atom:link href="https://baylab.github.io/author/madison-armstrong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Madison Armstrong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://baylab.github.io/author/madison-armstrong/avatar_hua06d28747e2df6c93293d35019251dfa_227747_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Madison Armstrong</title>
+      <link>https://baylab.github.io/author/madison-armstrong/</link>
+    </image>
+    
+  </channel>
+</rss>

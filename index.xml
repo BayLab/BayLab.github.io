@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Bay Lab</title>
+    <link>https://baylab.github.io/</link>
+      <atom:link href="https://baylab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Bay Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_3.png</url>
+      <title>The Bay Lab</title>
+      <link>https://baylab.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://baylab.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A general theory of avian migratory connectivity</title>
+      <link>https://baylab.github.io/publication/somveille-2021-general/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/somveille-2021-general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation reveals individual-level climate tracking across the annual cycle of a migratory bird</title>
+      <link>https://baylab.github.io/publication/bay-2021-genetic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2021-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking climate niches across seasons to assess population vulnerability in a migratory bird</title>
+      <link>https://baylab.github.io/publication/ruegg-2021-linking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2021-linking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent panmixia despite extreme habitat loss and population decline in the threatened tricolored blackbird (Agelaius tricolor)</title>
+      <link>https://baylab.github.io/publication/barr-2021-persistent/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/barr-2021-persistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The American Kestrel (Falco sparverius) genoscape: Implications for monitoring, management, and subspecies boundaries</title>
+      <link>https://baylab.github.io/publication/ruegg-2021-american/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2021-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://baylab.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://baylab.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <description>
+&lt;script src=&#34;https://baylab.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://baylab.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
+      <link>https://baylab.github.io/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
+      <link>https://baylab.github.io/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Can genomes predict coral bleaching?</title>
+      <link>https://baylab.github.io/publication/bay-2020-can/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2020-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic prediction of (mal) adaptation across current and future climatic landscapes</title>
+      <link>https://baylab.github.io/publication/capblancq-2020-genomic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/capblancq-2020-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of SNP markers for the painted bunting (Passerina ciris) and their relevance in population differentiation and genome evolution studies</title>
+      <link>https://baylab.github.io/publication/contina-2019-characterization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/contina-2019-characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel introgression and selection on introduced alleles in a native species</title>
+      <link>https://baylab.github.io/publication/bay-2019-parallel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2019-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong phenotypic divergence in spite of low genetic structure in the endemic Mangrove Warbler subspecies (Setophaga petechia xanthotera) of Costa Rica</title>
+      <link>https://baylab.github.io/publication/chavarria-2019-strong/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/chavarria-2019-strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution</title>
+      <link>https://baylab.github.io/publication/cunning-2018-comparative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/cunning-2018-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological genomics predicts climate vulnerability in an endangered southwestern songbird</title>
+      <link>https://baylab.github.io/publication/ruegg-2018-ecological/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2018-ecological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic signals of selection predict climate-driven population declines in a migratory bird</title>
+      <link>https://baylab.github.io/publication/bay-2018-genomic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2018-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of Thermal Tolerance in Reef-Building Corals across a Fine-Grained Environmental Mosaic: Lessons from Ofu, American Samoa</title>
+      <link>https://baylab.github.io/publication/thomas-2018-mechanisms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/thomas-2018-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polygenic evolution drives species divergence and climate adaptation in corals</title>
+      <link>https://baylab.github.io/publication/rose-2018-polygenic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/rose-2018-polygenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Coupling of Female Mate Choice with Polygenic Ecological Divergence Facilitates Stickleback Speciation</title>
+      <link>https://baylab.github.io/publication/bay-2017-genetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic models predict successful coral adaptation if future ocean warming rates are reduced</title>
+      <link>https://baylab.github.io/publication/bay-2017-genomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting responses to contemporary environmental change using evolutionary response architectures</title>
+      <link>https://baylab.github.io/publication/bay-2017-predicting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome predictors of coral survival and growth in a highly variable environment</title>
+      <link>https://baylab.github.io/publication/bay-2017-transcriptome/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-transcriptome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid acclimation ability mediated by transcriptome changes in reef-building corals</title>
+      <link>https://baylab.github.io/publication/bay-2015-rapid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2015-rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A call for tiger management using “reserves” of genetic diversity</title>
+      <link>https://baylab.github.io/publication/bay-2014-call/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2014-call/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of reef coral resistance to future climate change</title>
+      <link>https://baylab.github.io/publication/palumbi-2014-mechanisms/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/palumbi-2014-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilocus Adaptation Associated with Heat Resistance in Reef-Building Corals</title>
+      <link>https://baylab.github.io/publication/bay-2014-multilocus/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2014-multilocus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference of functional divergence among proteins when the evolutionary process is non-stationary</title>
+      <link>https://baylab.github.io/publication/bay-2013-inference/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2013-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recombination detection under evolutionary scenarios relevant to functional divergence</title>
+      <link>https://baylab.github.io/publication/bay-2011-recombination/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2011-recombination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://baylab.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://baylab.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://baylab.github.io/manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://baylab.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://baylab.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://baylab.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

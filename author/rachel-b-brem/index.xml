@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachel B Brem | The Bay Lab</title>
+    <link>https://baylab.github.io/author/rachel-b-brem/</link>
+      <atom:link href="https://baylab.github.io/author/rachel-b-brem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachel B Brem</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_3.png</url>
+      <title>Rachel B Brem</title>
+      <link>https://baylab.github.io/author/rachel-b-brem/</link>
+    </image>
+    
+    <item>
+      <title>Predicting responses to contemporary environmental change using evolutionary response architectures</title>
+      <link>https://baylab.github.io/publication/bay-2017-predicting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
