@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter P Marra | The Bay Lab</title>
+    <link>https://baylab.github.io/author/peter-p-marra/</link>
+      <atom:link href="https://baylab.github.io/author/peter-p-marra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter P Marra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_3.png</url>
+      <title>Peter P Marra</title>
+      <link>https://baylab.github.io/author/peter-p-marra/</link>
+    </image>
+    
+    <item>
+      <title>A general theory of avian migratory connectivity</title>
+      <link>https://baylab.github.io/publication/somveille-2021-general/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/somveille-2021-general/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
