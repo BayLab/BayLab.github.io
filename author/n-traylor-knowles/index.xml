@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Traylor-Knowles | The Bay Lab</title>
+    <link>https://baylab.github.io/author/n-traylor-knowles/</link>
+      <atom:link href="https://baylab.github.io/author/n-traylor-knowles/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Traylor-Knowles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png</url>
+      <title>N Traylor-Knowles</title>
+      <link>https://baylab.github.io/author/n-traylor-knowles/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution</title>
+      <link>https://baylab.github.io/publication/cunning-2018-comparative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/cunning-2018-comparative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

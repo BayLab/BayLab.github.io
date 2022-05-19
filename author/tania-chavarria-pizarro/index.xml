@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tania Chavarria-Pizarro | The Bay Lab</title>
+    <link>https://baylab.github.io/author/tania-chavarria-pizarro/</link>
+      <atom:link href="https://baylab.github.io/author/tania-chavarria-pizarro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tania Chavarria-Pizarro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png</url>
+      <title>Tania Chavarria-Pizarro</title>
+      <link>https://baylab.github.io/author/tania-chavarria-pizarro/</link>
+    </image>
+    
+    <item>
+      <title>Strong phenotypic divergence in spite of low genetic structure in the endemic Mangrove Warbler subspecies (Setophaga petechia xanthotera) of Costa Rica</title>
+      <link>https://baylab.github.io/publication/chavarria-2019-strong/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/chavarria-2019-strong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

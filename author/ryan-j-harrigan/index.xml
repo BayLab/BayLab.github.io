@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan J Harrigan | The Bay Lab</title>
+    <link>https://baylab.github.io/author/ryan-j-harrigan/</link>
+      <atom:link href="https://baylab.github.io/author/ryan-j-harrigan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan J Harrigan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png</url>
+      <title>Ryan J Harrigan</title>
+      <link>https://baylab.github.io/author/ryan-j-harrigan/</link>
+    </image>
+    
+    <item>
+      <title>Ecological genomics predicts climate vulnerability in an endangered southwestern songbird</title>
+      <link>https://baylab.github.io/publication/ruegg-2018-ecological/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2018-ecological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic signals of selection predict climate-driven population declines in a migratory bird</title>
+      <link>https://baylab.github.io/publication/bay-2018-genomic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2018-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

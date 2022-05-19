@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah H Rose | The Bay Lab</title>
+    <link>https://baylab.github.io/author/noah-h-rose/</link>
+      <atom:link href="https://baylab.github.io/author/noah-h-rose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noah H Rose</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png</url>
+      <title>Noah H Rose</title>
+      <link>https://baylab.github.io/author/noah-h-rose/</link>
+    </image>
+    
+    <item>
+      <title>Genomic analysis of distinct bleaching tolerances among cryptic coral species</title>
+      <link>https://baylab.github.io/publication/rose-2021-genomic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/rose-2021-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of Thermal Tolerance in Reef-Building Corals across a Fine-Grained Environmental Mosaic: Lessons from Ofu, American Samoa</title>
+      <link>https://baylab.github.io/publication/thomas-2018-mechanisms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/thomas-2018-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polygenic evolution drives species divergence and climate adaptation in corals</title>
+      <link>https://baylab.github.io/publication/rose-2018-polygenic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/rose-2018-polygenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic models predict successful coral adaptation if future ocean warming rates are reduced</title>
+      <link>https://baylab.github.io/publication/bay-2017-genomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

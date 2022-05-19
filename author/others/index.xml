@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | The Bay Lab</title>
+    <link>https://baylab.github.io/author/others/</link>
+      <atom:link href="https://baylab.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png</url>
+      <title> others</title>
+      <link>https://baylab.github.io/author/others/</link>
+    </image>
+    
+    <item>
+      <title>The American Kestrel (Falco sparverius) genoscape: Implications for monitoring, management, and subspecies boundaries</title>
+      <link>https://baylab.github.io/publication/ruegg-2021-american/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2021-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Coupling of Female Mate Choice with Polygenic Ecological Divergence Facilitates Stickleback Speciation</title>
+      <link>https://baylab.github.io/publication/bay-2017-genetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2017-genetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

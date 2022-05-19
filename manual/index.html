@@ -1,0 +1,1008 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Rachael A Bay" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://baylab.github.io/manual/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.859a492e2fc12373df1660f0c0aa3b07.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49677440-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-49677440-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://baylab.github.io/manual/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="The Bay Lab" />
+  <meta property="og:url" content="https://baylab.github.io/manual/" />
+  <meta property="og:title" content=" | The Bay Lab" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+    
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title> | The Bay Lab</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="0de3323e7ebdc3db1494e6df94278683" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.c2ae95842e5b33a787c7b8c567e989a4.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">The Bay Lab</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">The Bay Lab</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/manual" data-target="[]"><span>Lab Manual</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="lab manual" class="home-section wg-blank  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <h2 id="bay-lab-values-and-expectations">Bay Lab Values and Expectations</h2>
+<p>Welcome to the lab! In this document we hope to include a lot of the information you need about lab culture, values and expectations. It’s a work in progress and we are happy for any feedback. If you’ve just joined the lab, you might find this <a href="https://drive.google.com/file/d/1HgV71oV5sEFcj32woRh1YZbhg3S8c9Ob/view?usp=sharing" target="_blank" rel="noopener">checklist</a> helpful for getting started.</p>
+<p><img src="Panel1.jpg" alt="Bay Lab members in the field"></p>
+<p><strong>Lab Values:</strong>
+We are a group of people with a shared love and curiosity for understanding the natural world. We strive to create an environment where everyone has the support and resources they need to be happy and productive and to achieve the goals they need to prepare for their future careers. We aim to recruit and foster belonging for scientists from diverse racial, socioeconomic, ethnic, sexuality, disability, and other backgrounds. We are dedicated to working toward a more just academic and scientific community through the following actions:</p>
+<ul>
+<li>Educating ourselves and one another on historic and contemporary biases and injustices in our academic system, including dedicating regular lab meeting time to anti-racist and anti-discriminatory readings and discussions. We encourage lab members to participate in college and campus-level DEIJ workshops and trainings.</li>
+<li>We accept constructive feedback on our actions and strive for self-improvement. We want to provide an environment where lab members are empowered and feel comfortable to speak up when they observe discriminatory actions and we are receptive to correction. However, we acknowledge that not all disputes can be settled internally and offer links to campus resources at the end of this page.</li>
+<li>We actively recruit lab members from historically excluded groups.</li>
+<li>We understand that paid research experience can be a barrier to undergraduate participation in research and, when possible, seek to provide paid opportunities for undergraduates</li>
+<li>We participate in summer research collaborations with students from minority serving institutions</li>
+<li>We are committed to connecting with the community outside of UC Davis through outreach events.</li>
+</ul>
+<p> </p>
+<p><strong>Community participation:</strong>
+Our community is one of our greatest assets and resources. We are surrounded by wonderful and smart people and we should learn as much as we can from one another. Every member of the lab both adds to and benefits from the intellectual community within our lab and at UC Davis. Sharing your science, listening to others, and talking through ideas both big and small helps us grow as scientists.
+Lab presence – normally (in non-COVID times), you are generally expected to have a consistent presence in the lab during weekday business hours. We believe that regular, shared in-person presence among our members enhances our intellectual environment, fosters a richer sense of community, and provides organic opportunities for scientific exchange. However, this does not mean that you cannot work from home when it works better for you, and we encourage members to develop schedules that support their individual success. We also acknowledge that some circumstances (i.e. caregiving, disability, etc.) may limit your capacity to be in-person and are happy to work collaboratively to come up with a plan that meets your needs while still maintaining community participation.  If you will be gone for an extended period of time (&gt;1-2 days), let Rachael know in advance.</p>
+<ul>
+<li>Lab meeting – all members of the Bay lab should be present at lab meetings barring time conflicts. Grad students and postdocs should lead a lab meeting once per quarter.</li>
+<li>Seminars – go to seminars and meet with speakers! This is a great way to broaden your thinking and to expand your network. You can’t go to every seminar, but try to make it a regular habit.</li>
+<li>Workshops - there are many excellent workshops at UC Davis and other institutions that can help you build the skills you need to complete your research.</li>
+</ul>
+<p> </p>
+<p><strong>Funding:</strong>
+We work collaboratively to obtain funding both for salary and for research. Funding can be a great source of anxiety and if the terms or amounts of your funding are not clear or if you are unsure about funding, talk to Rachael!</p>
+<ul>
+<li>For graduate students and postdocs, salaries are negotiated upon hiring. Graduate students will be funded according to graduate group scales. Those salaries are a combination of grants, fellowships, and teaching assistantships. You should expect to be paid for each quarter you work here, but the source of that funding will likely change. When grants allow, each graduate student will have a minimum of one quarter plus one summer GSR per year. For more information on graduate group salaries and general policies, see the relevant graduate group pages:
+<ul>
+<li><a href="https://pbg.ucdavis.edu/" target="_blank" rel="noopener">Population Biology Graduate Group</a></li>
+<li><a href="https://igg.ucdavis.edu/" target="_blank" rel="noopener">Integrative Genetics and Genomics</a></li>
+<li><a href="https://ecology.ucdavis.edu/" target="_blank" rel="noopener">Graduate Group in Ecology</a></li>
+</ul>
+</li>
+<li>For projects that are not directly supported by Rachael’s grants, you should be writing grants to support your research. It is good practice, it will help you demonstrate your ability to acquire funding, and it will foster independence. Often I can ‘fill in the gaps’, but you should attempt to secure funding for your projects. Our in-house list of funding resources can be accessed <a href="https://docs.google.com/spreadsheets/d/1ZnHmDvxqOt7Cz2MoTWlPQ_LcAO1JLNoDgOXoLmBxe74/edit?usp=sharing" target="_blank" rel="noopener">here</a>.</li>
+<li>While the lab has funding, graduate students and postdocs will be funded to attend at least one conference per year. Undergraduates that play major roles in a project may also be funded to attend.</li>
+<li>You should not expect to be paying out of pocket for any research-related expenses. If you are unsure of how to purchase or get reimbursed for something, ask Rachael.</li>
+</ul>
+<p> </p>
+<p><strong>Communication:</strong>
+We believe that communication and transparency are key to a healthy and productive work environment. This applies to formal collaboration, maintenance of our space, and interpersonal interactions. We strive to maintain open lines of communication among all lab members to facilitate a comfortable and safe environment for everyone</p>
+<ul>
+<li>Work-related communication is easiest over SLACK, please use either group or DMs as default for lab business.</li>
+<li>While we understand that different people have different working hours, you are not expected to respond outside of weekday business hours.</li>
+<li>We respect one another’s time. If you need feedback on a proposal, abstract, or paper you should provide a draft a minimum of one week before the deadline. If it will require multiple revisions, plan for each to take at least a week.</li>
+<li>Communication should be professional and constructive. We do not tolerate discrimination or abuse.</li>
+<li>We accept that we sometimes make mistakes in how we communicate with others and welcome constructive feedback on how to improve our communication in the future.
+In the case of conflict or dispute, we encourage lab members to settle disputes internally, including reaching out to Rachael when necessary. However, there are a number of additional resources that can be used (OMBUDS, CARE, etc) that are listed in the Campus Resources section. PIs are required to report claims of harassment/sexual misconduct to the University following Title IX, but a number of these resources are confidential.</li>
+</ul>
+<p> </p>
+<p><strong>Lab safety and responsibility:</strong>
+Our lab can be an incredibly useful and productive space, but we need to work together to maintain it!</p>
+<ul>
+<li>Brenda is here to help you succeed in your lab work goals and is a wealth of knowledge on experimental protocols of all types!. Open communication with her about your project, protocols, training, and needs will enable her to help you troubleshoot.</li>
+<li>Clean up after yourself. This includes in the office as well as in the lab space.</li>
+<li>Make sure you are up to date on your safety training. This includes the laboratory fundamentals training and any specialized training that you need for your work.</li>
+<li>Don’t let problems stick around - if you notice something is broken/missing/incorrect let Rachael or Brenda know!</li>
+<li>Many reagents are shared in the lab, even across projects. Before you start a project double check to make sure we don’t already have what you need.</li>
+</ul>
+<p> </p>
+<p><strong>Travel:</strong>
+Travel for conferences or for field work is a fun part of the job!
+Graduate students and postdocs can obtain travel cards. I suggest that you do this so that you will not have to front your travel expenses. Reimbursement can take several weeks. NOTE: For lab members paid externally (e.g. NSF fellowships) travel cards cannot be used.</p>
+<ul>
+<li>Be professional. Remember that when you are in the field or at a conference you represent UC Davis and the lab.</li>
+<li>Fill out a field safety plan before you begin your field work. If you will be traveling in a place where cell phone service is uncertain, check out a satellite phone from the field safety office.</li>
+</ul>
+<p> </p>
+<p><strong>Data archiving:</strong>
+Let’s stay organized so that others (and our future selves) can reproduce our science! Protocols for archiving data and experimental procedures can be found on the Bay Lab Google Drive.</p>
+<ul>
+<li>All raw data is archived on the Bay Lab google drive and on an external hard drive immediately.</li>
+<li>At project end, processed data is also archived according to conventions listed on the google drive.</li>
+<li>Upon publication, all data and scripts are made available in public repositories.
+When you depart the lab, it is your responsibility to make sure all data files and lab notebooks are accessible.</li>
+</ul>
+<p> </p>
+<p><strong>Campus Resources:</strong></p>
+<ul>
+<li>Confidential resources:
+<ul>
+<li>OMBUDS: <a href="https://ombuds.ucdavis.edu/">https://ombuds.ucdavis.edu/</a> (530-754-7233)</li>
+<li>CARES: <a href="https://care.ucdavis.edu/">https://care.ucdavis.edu/</a> (530-752-3299)</li>
+<li>ASAP: <a href="https://hr.ucdavis.edu/departments/asap">https://hr.ucdavis.edu/departments/asap</a> (530-752-2727)</li>
+<li>UCD Counseling Center: <a href="https://shcs.ucdavis.edu/counseling-services">https://shcs.ucdavis.edu/counseling-services</a> (530-752-0871)</li>
+<li>LGBTQIA: <a href="http://lgbtqia.ucdavis.edu/">http://lgbtqia.ucdavis.edu/</a> (530-752-2452)</li>
+<li>Women’s Resource and Research Center: <a href="http://wrrc.ucdavis.edu/">http://wrrc.ucdavis.edu/</a> (530-752-3372)</li>
+</ul>
+</li>
+<li>Diversity, Equity &amp; Inclusion:  <a href="https://diversity.ucdavis.edu/how-do-i">https://diversity.ucdavis.edu/how-do-i</a></li>
+<li>Harassment &amp; Discrimination Assistance and Prevention Program (HDAPP): <a href="https://hdapp.sf.ucdavis.edu/">https://hdapp.sf.ucdavis.edu/</a></li>
+<li>Graduate Student Association
+<a href="https://gsa.ucdavis.edu/">https://gsa.ucdavis.edu/</a></li>
+<li>University of California Postdoc UAW Local 5810
+<a href="http://uaw5810.org/welcome-new-postdocs/">http://uaw5810.org/welcome-new-postdocs/</a></li>
+<li>Field Safety Office: <a href="https://safetyservices.ucdavis.edu/units/ehs/research/field">https://safetyservices.ucdavis.edu/units/ehs/research/field</a></li>
+<li>Dive Safety: <a href="https://marinescience.ucdavis.edu/bml/dive-program">https://marinescience.ucdavis.edu/bml/dive-program</a></li>
+<li>Boating Safety: <a href="https://marinescience.ucdavis.edu/bml/boating-safety-program">https://marinescience.ucdavis.edu/bml/boating-safety-program</a></li>
+</ul>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.fb8eb32a4d207f5f18023712a904b210.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

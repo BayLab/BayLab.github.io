@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas B Smith | The Bay Lab</title>
+    <link>https://baylab.github.io/author/thomas-b-smith/</link>
+      <atom:link href="https://baylab.github.io/author/thomas-b-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas B Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baylab.github.io/media/icon_hucc9e8e72c75e02ef15e2c8d0482ba39d_46292_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas B Smith</title>
+      <link>https://baylab.github.io/author/thomas-b-smith/</link>
+    </image>
+    
+    <item>
+      <title>A general theory of avian migratory connectivity</title>
+      <link>https://baylab.github.io/publication/somveille-2021-general/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/somveille-2021-general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation reveals individual-level climate tracking across the annual cycle of a migratory bird</title>
+      <link>https://baylab.github.io/publication/bay-2021-genetic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2021-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking climate niches across seasons to assess population vulnerability in a migratory bird</title>
+      <link>https://baylab.github.io/publication/ruegg-2021-linking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2021-linking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent panmixia despite extreme habitat loss and population decline in the threatened tricolored blackbird (Agelaius tricolor)</title>
+      <link>https://baylab.github.io/publication/barr-2021-persistent/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/barr-2021-persistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of SNP markers for the painted bunting (Passerina ciris) and their relevance in population differentiation and genome evolution studies</title>
+      <link>https://baylab.github.io/publication/contina-2019-characterization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/contina-2019-characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological genomics predicts climate vulnerability in an endangered southwestern songbird</title>
+      <link>https://baylab.github.io/publication/ruegg-2018-ecological/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/ruegg-2018-ecological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic signals of selection predict climate-driven population declines in a migratory bird</title>
+      <link>https://baylab.github.io/publication/bay-2018-genomic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://baylab.github.io/publication/bay-2018-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
