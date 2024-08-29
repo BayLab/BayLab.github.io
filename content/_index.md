@@ -7,15 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: 
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Bay Lab in the [Department of Evolution and Ecology](eve.ucdavis.edu) at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data. 
   
   - block: collection
     content:
@@ -58,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
