@@ -1,6 +1,11 @@
 ---
-authors:
-- Brooke Benson
+# Display name
+title: Brooke Benson
+
+# Full Name (for SEO)
+first_name: Brooke
+last_name: Benson
+
 bio: 
 education:
   courses:
