@@ -17,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: 
+      title: Latest News
       subtitle:
       text:
       count: 5
@@ -43,7 +43,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: DSC07231.JPG
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
