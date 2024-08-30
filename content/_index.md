@@ -20,7 +20,7 @@ sections:
       title: 
       subtitle:
       text:
-      count: 1
+      count: 5
       filters:
         author: ''
         category: ''
