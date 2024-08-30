@@ -43,7 +43,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: P3120679.jpeg
+          filename: DSC07231.JPG
           filters:
             brightness: 1
           parallax: false
@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        publication_type: 'article'
     design:
       view: citation
       columns: '1'
