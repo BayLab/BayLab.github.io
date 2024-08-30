@@ -7,13 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title:
+      title: 
       image:
-        filename: closeup.png
+        filename: welcome.jpg
       text: |
         <br>
         
-        The Bay Lab in the Department of Evolution and Ecology at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data. 
+        The Bay Lab in the [Department of Evolution and Ecology](eve.ucdavis.edu) at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data. 
   
   - block: collection
     content:
@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
+      title: Latest Preprints
       text: ""
       count: 5
       filters:
@@ -67,4 +67,12 @@ sections:
       view: citation
       columns: '1'
 
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
