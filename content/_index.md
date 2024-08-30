@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    id: section-1
     content:
       title: 
       image:
