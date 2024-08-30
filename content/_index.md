@@ -7,9 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: 
       image:
         filename: welcome.jpg
       text: |
