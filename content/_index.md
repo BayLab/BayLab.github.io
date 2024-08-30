@@ -17,10 +17,10 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
