@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
+      title: Latest Preprints
       text: ""
       count: 5
       filters:
