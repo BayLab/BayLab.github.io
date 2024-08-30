@@ -11,11 +11,13 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: closeup.png
+        filename: welcome.jpg
       text: |
-      text: The Bay Lab in the Department of Evolution and Ecology at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data. 
-
- - block: collection
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
+  - block: collection
     content:
       title: Latest News
       subtitle:
@@ -65,5 +67,14 @@ sections:
         publication_type: 'article'
     design:
       view: citation
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
       columns: '1'
 ---
