@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       image:
-        filename: welcome.jpg
+        filename: closeup.png
       text: |
         <br>
         
@@ -17,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 
       subtitle:
       text:
       count: 5
@@ -43,7 +43,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: P3120679.jpeg
           filters:
             brightness: 1
           parallax: false
