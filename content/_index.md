@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        publication_type: 'Journal article'
     design:
       view: citation
       columns: '1'
