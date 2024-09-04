@@ -25,7 +25,6 @@ organizations:
 bio: 
 
 interests:
-  - Evolution
   - Ecological Genomics
   - Science Policy
 
