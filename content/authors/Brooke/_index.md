@@ -39,7 +39,6 @@ social:
   link: https://github.com/bebenson9
 
 superuser: false
-title: Brooke Benson
 user_groups:
 - Lab Members
 ---
