@@ -24,7 +24,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: urchinlong.jpg
           filters:
             brightness: 1
           parallax: false
@@ -46,14 +46,5 @@ sections:
         publication_type: 'article'
     design:
       view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
       columns: '1'
 ---
