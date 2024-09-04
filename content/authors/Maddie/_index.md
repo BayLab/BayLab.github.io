@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
+    - course: BA in Environmental Studies
+      institution: University of North Carolina at Chapel Hill
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
