@@ -26,8 +26,6 @@ bio:
 
 interests:
   - Evolution
-  - Ecological Genomics
-  - Science Policy
 
 education:
   courses:
