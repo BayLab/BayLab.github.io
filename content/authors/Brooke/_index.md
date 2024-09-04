@@ -8,39 +8,39 @@ first_name: Brooke
 last_name: Benson
 
 authors:
-- Brooke Benson
+  - Brooke Benson
 bio: 
 education:
   courses:
-  - course: BA in Environmental Studies
-    institution: University of North Carolina at Chapel Hill
-    year: 2017
+    - course: BA in Environmental Studies
+      institution: University of North Carolina at Chapel Hill
+      year: 2017
 email: ""
 interests:
-- Evolution
-- Ecological Genomics
-- Science Policy
+  - Evolution
+  - Ecological Genomics
+  - Science Policy
 organizations:
-- name: she/they
-  url: ""
+  - name: she/they
+    url: ''
 role: Graduate Student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:bebenson@ucdavis.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bebenson9
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=ZQN0jmEAAAAJ&view_op=list_works&sortby=pubdate
-- icon: github
-  icon_pack: fab
-  link: https://github.com/bebenson9
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:bebenson@ucdavis.edu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/bebenson9
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=ZQN0jmEAAAAJ&view_op=list_works&sortby=pubdate
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/bebenson9
 
 superuser: false
 user_groups:
-- Lab Members
+  - Lab Members
 ---
 
 I am interested in how marine organisms adapt to their environments and their capacity to persist under global change. I use a combination of lab experiments, field research, physiology, and genomics to investigate patterns of evolution in natural populations spanning a myriad of environmental gradients. My dissertation research leverages two systems of marine foundation species: the temperate eelgrass *Zostera marina* and reef-building corals of the genus Acropora. I am deeply interested in the connections between science, policy, and societies, especially the ways in which we can improve human and environmental health by strengthening these connections. 
