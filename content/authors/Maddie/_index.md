@@ -25,8 +25,6 @@ organizations:
 bio: 
 
 interests:
-  - Ecological Genomics
-  - Science Policy
 
 education:
   courses:
