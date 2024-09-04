@@ -24,6 +24,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+  - Evolution
+  - Ecological Genomics
+  - Science Policy
+
+education:
+  courses:
+    - course: BA in Environmental Studies
+      institution: University of North Carolina at Chapel Hill
+      year: 2017
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -31,10 +42,10 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mlarmstrong@ucdavis.edu'
+    link: 'mailto:bebenson@ucdavis.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/chattymaddie_
+    link: https://twitter.com/bebenson9
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=ZQN0jmEAAAAJ&view_op=list_works&sortby=pubdate
