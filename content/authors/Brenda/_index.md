@@ -52,4 +52,4 @@ user_groups:
   - Lab Members
 ---
 
-Brenda is our lab manager extraordinaire. She has expertise in molecular lab protocols, marine invertebrates husbandry, experimental design, general organization, crafting, and baking.
+Brenda is our lab manager extraordinaire. She has expertise in molecular lab protocols, marine invertebrates husbandry, experimental design, general organization, crafting, and baking. Basically, she keeps everything running!
