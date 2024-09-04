@@ -13,8 +13,8 @@ sections:
       text: |
         <br>
         
-        The Bay Lab in the Department of Evolution and Ecology at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data. 
-
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
   - block: collection
     content:
       title: Latest News
