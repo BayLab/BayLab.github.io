@@ -24,6 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+  - Evolution
+  - Ecological Genomics
+  - Science Policy
+
 education:
   courses:
     - course: BA in Environmental Studies
