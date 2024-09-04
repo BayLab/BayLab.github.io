@@ -25,18 +25,15 @@ organizations:
 bio: 
 
 interests:
-  - Marine Genomics
-  - Molecular Ecology
-  - Conservation and Fisheries Management
+  - Evolution
+  - Ecological Genomics
+  - Science Policy
 
 education:
   courses:
-    - course: MSc in Marine Biology
-        institution: Scripps Institution of Oceanography, UC San Diego
-        year: 2017
-    - course: BSc in Environmental Systems: Ecology, Behavior, & Evolution
-        institution: University of California, San Diego
-        year: 2017
+    - course: BA in Environmental Studies
+      institution: University of North Carolina at Chapel Hill
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
