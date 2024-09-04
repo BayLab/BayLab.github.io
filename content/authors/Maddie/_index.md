@@ -26,12 +26,14 @@ bio:
 
 interests:
   - Evolution
+  - Ecological Genomics
+  - Science Policy
 
 education:
   courses:
-    - course: BA in Environmental Studies
-      institution: University of North Carolina at Chapel Hill
-      year: 2017
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
