@@ -9,13 +9,17 @@ last_name: Benson
 
 authors:
   - Brooke Benson
+
 bio: 
+
 education:
   courses:
     - course: BA in Environmental Studies
       institution: University of North Carolina at Chapel Hill
       year: 2017
-email: ""
+
+email: ''
+
 interests:
   - Evolution
   - Ecological Genomics
@@ -23,7 +27,9 @@ interests:
 organizations:
   - name: she/they
     url: ''
+
 role: Graduate Student
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +45,7 @@ social:
     link: https://github.com/bebenson9
 
 superuser: false
+
 user_groups:
   - Lab Members
 ---
