@@ -1,57 +1,79 @@
 ---
----
 # Display name
-title: Brooke Benson
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Brooke
-last_name: Benson
+first_name: Alice
+last_name: Wu
 
+# Username (this should match the folder name)
 authors:
-  - Brooke Benson
+  - 吳恩達
 
-bio: 
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations
+organizations:
+  - name: Stanford University
+    url: ''
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: BA in Environmental Studies
-      institution: University of North Carolina at Chapel Hill
-      year: 2017
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
-email: ''
-
-interests:
-  - Evolution
-  - Ecological Genomics
-  - Science Policy
-organizations:
-  - name: she/they
-    url: ''
-
-role: Graduate Student
-
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:bebenson@ucdavis.edu
+    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/bebenson9
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=ZQN0jmEAAAAJ&view_op=list_works&sortby=pubdate
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/bebenson9
+    link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-superuser: false
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
 
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab Members
+  - Researchers
+  - Visitors
 ---
 
-I am interested in how marine organisms adapt to their environments and their capacity to persist under global change. I use a combination of lab experiments, field research, physiology, and genomics to investigate patterns of evolution in natural populations spanning a myriad of environmental gradients. My dissertation research leverages two systems of marine foundation species: the temperate eelgrass *Zostera marina* and reef-building corals of the genus Acropora. I am deeply interested in the connections between science, policy, and societies, especially the ways in which we can improve human and environmental health by strengthening these connections. 
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-I was born and raised near Durham, North Carolina, and I lived in Boston for a couple years working as a lab manager before starting my Ph.D. I am fortunate to have consistently experienced supportive mentorship, and my experiences have highlighted how central equity and accessibility are to good science. As a colleague and mentor, I aim to help maintain an atmosphere of inclusion, empathy, and justice. 
-
-My favorite ways to spend my free time are hiking, playing guitar, and hanging out with my dog and cat. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
