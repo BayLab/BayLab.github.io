@@ -46,12 +46,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chattymaddie_
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=ZQN0jmEAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/bebenson9
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,5 +65,3 @@ user_groups:
 I’m a PhD student in the Population Biology Graduate Group and I am broadly interested in adaptation to marine urban environments and genomic variation associated with environmental change. Specifically, I’m interested in how pollution can increase population isolation, cause developmental abnormalities, and alter the genomes of marine invertebrates in these areas, using the Pacific purple urchin (Strongylocentrotus purpuratus) as my model organism. Outside of research, I enjoy participating in science outreach events, increasing my plant collection, embroidering and boxing.
 
 **Website:** https://madisonarmstrong.me/
-
-My favorite ways to spend my free time are hiking, playing guitar, and hanging out with my dog and cat. 
