@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Brooke Benson
+title: Madison Armstrong
 
 # Full name (for SEO)
-first_name: Brooke
-last_name: Benson
+first_name: Madison
+last_name: Armstrong
 
 # Username (this should match the folder name)
 authors:
-  - Brooke Benson
+  - Madison Armstrong
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: she/they
+  - name: she/her
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,16 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bebenson@ucdavis.edu'
+    link: 'mailto:mlarmstrong@ucdavis.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/bebenson9
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=ZQN0jmEAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/bebenson9
+    link: https://twitter.com/chattymaddie_
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,8 +61,6 @@ user_groups:
   - Lab Members
 ---
 
-I am interested in how marine organisms adapt to their environments and their capacity to persist under global change. I use a combination of lab experiments, field research, physiology, and genomics to investigate patterns of evolution in natural populations spanning a myriad of environmental gradients. My dissertation research leverages two systems of marine foundation species: the temperate eelgrass *Zostera marina* and reef-building corals of the genus Acropora. I am deeply interested in the connections between science, policy, and societies, especially the ways in which we can improve human and environmental health by strengthening these connections. 
+I’m a PhD student in the Population Biology Graduate Group and I am broadly interested in adaptation to marine urban environments and genomic variation associated with environmental change. Specifically, I’m interested in how pollution can increase population isolation, cause developmental abnormalities, and alter the genomes of marine invertebrates in these areas, using the Pacific purple urchin (Strongylocentrotus purpuratus) as my model organism. Outside of research, I enjoy participating in science outreach events, increasing my plant collection, embroidering and boxing.
 
-I was born and raised near Durham, North Carolina, and I lived in Boston for a couple years working as a lab manager before starting my Ph.D. I am fortunate to have consistently experienced supportive mentorship, and my experiences have highlighted how central equity and accessibility are to good science. As a colleague and mentor, I aim to help maintain an atmosphere of inclusion, empathy, and justice. 
-
-My favorite ways to spend my free time are hiking, playing guitar, and hanging out with my dog and cat. 
+**Website:** https://madisonarmstrong.me/
