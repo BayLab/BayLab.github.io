@@ -24,3 +24,19 @@ sections:
       show_role: true
       show_social: true
 ---
+
+**Lab Alumni**
+
+-[Lauren Schiebelhut](https://laurenschiebelhut.wordpress.com/) (postdoc) - Project scientist at UC Merced
+
+-[Nicole Adams](https://nicoleadamssci.wordpress.com/) (postdoc) - Bioinformatician at University of Michigan
+
+-[Erica Nielsen](https://esnielsen.github.io/) (postdoc) - Anthony LaFetra Point Conception Institute Research Fellow at The Nature Conservancy
+
+-[Serena Caplins](https://serenacaplins.wordpress.com/) (postdoc) - Bioinformatician at Northeastern University
+
+-[Michael Yuan](https://michaellyuan.com/) (postdoc) - Postdoc at California Academy of Sciences
+
+-[Vicky Watson-Zink](https://origamicrab.wordpress.com/) (graduate student) - Stanford Science Fellow
+
+-Camille Rumberger (Junior Specialist) - Graduate Student, Northeastern University
