@@ -7,6 +7,9 @@ about:
   template: trestles
   image-shape: round
   image-width: 10rem
+  links:
+  - icon: envelope
+    href: mailto:bbcameron@ucdavis.edu
 ---
 
 :::{#hero-heading}
