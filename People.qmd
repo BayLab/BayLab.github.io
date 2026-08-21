@@ -16,3 +16,39 @@ listing:
     - people.yml
 ---
 
+:::{#lab-member}
+:::
+
+---
+
+::: {style="font-size: 0.8em;"}
+### Lab Alumni
+-[Madison Armstrong](https://madisonarmstrong.me/home-extended/) (graduate student 2019-2025) - postdoc at Northeastern
+
+-Brooke Benson (graduate student 2019-2026)
+
+-[Leslie Guerrero](https://www.linkedin.com/in/leslie-guerrero-123855b5) (graduate student 2018-2024) - Bioinformatitian at AbbVie
+
+-[Nicole Adams](https://nicoleadamssci.wordpress.com/) (postdoc 2019-2022) - Bioinformatician at University of Michigan
+
+-[Tali Magory Cohen](https://magory-lab.github.io/) (postdoc 2021-2023) - Senior Lecturer, Tel-hai Univeristy of Kiryat Shmona in the Galilee, Israel
+
+-[Erica Nielsen](https://esnielsen.github.io/) (postdoc 2021-2023) - Anthony LaFetra Point Conception Institute Research Fellow at The Nature Conservancy
+
+-[Serena Caplins](https://serenacaplins.wordpress.com/) (postdoc 2020-2023) - Bioinformatician at Northeastern University
+
+-[Michael Yuan](https://www.tcu.edu/directory/profile/michael-yuan.php) (postdoc 2021-2023) - Assistant Professor at Texas Christian University
+
+-Camille Rumberger (Junior Specialist 2021-2022) - Graduate Student, Northeastern University
+
+-[Vicky Watson-Zink](https://origamicrab.wordpress.com/) (graduate student 2020-2022) - Postdoc at Harvard University
+
+-[Lauren Schiebelhut](https://laurenschiebelhut.wordpress.com/) (postdoc 2019-2020) - Project scientist at UC Merced
+
+
+
+---
+
+### Prospective Students
+
+I am recruiting graduate students that are interested in using genomic analyses to answer questions about evolutionary responses to environmental change in marine systems. If you are interested, send your CV and a *brief* description of your prior experience and interests to [rbay@ucdavis.edu](mailto:rbay@ucdavis.edu)
