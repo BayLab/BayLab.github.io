@@ -41,7 +41,7 @@ Under anthropogenic climate change, the notion that biogeographic boundaries are
 ---
 
 
-### Adaptation at across spatial scales
+### Adaptation across spatial scales
 :::: {.columns}
 ::: {.column width="35%"}
 ![](images/eelgrass_crop.jpg){fig-alt="photo of eelgrass in pots, some with experimental tags"}
