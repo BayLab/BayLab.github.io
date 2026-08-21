@@ -1,0 +1,31 @@
+---
+title: "Katie Erickson"
+image: "/images/Katie.jpeg"
+image-alt: "A photo of Katie Erickson"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+  links:
+    - icon: envelope
+      href: mailto:kerickson@ucdavis.edu
+    - icon: github
+      href: https://github.com/kericksonbio
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOv-ny8Qp-HMikGOPwznuRVDokIBV_y3DNeC_4GHG9yKeDu_m8-Q8L-CN9imMC49rp_lxKm7GgZS6usinXKHFQ&user=swFNs0sAAAAJ 
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+
+I am a PhD Candidate in the Population Biology Graduate Group and Bay Lab at UC Davis. My dissertation is focused around understanding the evolutionary dynamics of a large chromosomal inversion in eelgrass, *Zostera marina*. More broadly, I am interested in the genomic basis of local adaptation and parallel evolution. I combine field work and experiments with a variety of sequencing technologies to contribute to our understanding of and ability to conserve ecologically-important marine organisms.
+
+Outside of my dissertation, I am eager to connect my scientific background to my passions of outreach and art. My most recent project endeavor is in conjunction with *n-girls collective*, in which I served as a fashion designer and host of an eco-trash fashion show at the Bodega Marine Lab as part of the Russell J. and Dorothy S. Bilinski Fellowship.
+
+
+## Education
+BS in Mathematical and Computational Biology | Harvey Mudd College | 2019
+
+:::
+:::

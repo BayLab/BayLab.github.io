@@ -1,0 +1,29 @@
+---
+title: "Rachael Bay"
+image: "/images/Rachael.jpg"
+image-alt: "A photo of Rachael Bay"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+  links:
+    - icon: envelope
+      href: mailto:rbay@ucdavis.edu
+    - icon: github
+      href: https://github.com/rachaelbay
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=3AqB3vQAAAAJ&hl=en
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+I am interested in how human influences on the environment alter the evolutionary trajectories of organisms. I use a combination of ecological experiments and genomic analysis to identify genetic variation underlying adaptation in natural populations and to understand how adaptive variation is distributed across environments. I am particularly interested in developing predictive genomic frameworks that can be used to estimate the potential for adaptation to future environmental change. I have a particular fondness for marine systems, although I have worked in a broad range of taxa. In my spare time I enjoy baking, hiking, and spending time with my husband and toddler.
+
+## Education
+PhD in Biology | Stanford University | 2015    
+MSc in biology | Dalhousie University | 2010    
+BS in Marine Science | University of Miami | 2007
+
+:::
+:::

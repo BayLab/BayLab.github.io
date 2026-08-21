@@ -1,0 +1,18 @@
+---
+title: "Brenda Cameron"
+image: "/images/Brenda.jpg"
+image-alt: "A photo of Brenda Cameron"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+
+Brenda is our lab manager extraordinaire. She has expertise in molecular lab protocols, marine invertebrates husbandry, experimental design, general organization, crafting, and baking. Basically, she keeps everything running!
+
+:::
+:::

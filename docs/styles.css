@@ -1,0 +1,5 @@
+/* css styles */
+.quarto-listing-table thead {
+  display: none !important;
+}
+

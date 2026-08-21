@@ -1,0 +1,116 @@
+---
+title: "Publications"
+image: "images/Panel2.jpg"
+image-alt: "Three photos. Left: A scientist take a photo of a coral. Center: A woman smiling holding a sea urchin. Right: A woman writing on a clipboard over a table outside."
+about:
+  template: marquee
+---
+
+For an up to date list of publications, see [Google Scholar](https://scholar.google.com/citations?user=3AqB3vQAAAAJ&hl=en)
+
+::: {style="font-size: 0.8em;"}
+### 2026
+
+Balakrishnan CN et al. 2026. Genomic and physiological changes in a sexually selected and frugivorous bird radiation. Current Biology. 3061-3076.     
+
+Bemmels JB, Kroeker KJ, Palumbi SR, Bay RA, Gruenthal KM, Lindstron SC, Osmond MM, Owens GL. 2026. Spatial inference of ancestor locations suggests northern refugia for canopy-forming kelps in the Pacific Northwest. New Phytologist.     
+
+Tautz D, Pallares LF, Andersson L, Barghi N, Barton N, Bay RA, Chan YF, Hancock A, Kaiser TS, Koenig D, Kontarakis Z, Liedvogel M, De Meaux J, Nordborg M, Palmer AA, Purugganan M, Schlötterer C, Schmid K, Stainier DYR, Weigel D, Wolf JBW, Ebert D, Gibson G. Beyond Mendel: A call to revisit the genotype-phenotype map through new experimental paradigms. 2026. Genetics. iyag024.     
+
+### 2025
+
+Rodriguez MD, Bossu CM, Anderson EC, Bay RA, Ruegg KC. 2025. Genetic, phenotypic, and environmental drivers of local adaptation and climate change-induced maladaptation in a migratory songbird. PNAS. e2518497122.     
+
+Rodriguez MD, Bay RA, Ruegg KC. 2025. Telomere length differences indicate climate change-induced stress and population decline in a migratory bird. 2025. Molecular Ecology. e17642.     
+
+Nielsen ES, Walkes S, Sones JL, Fenberg PB, Paz-García DA, Grosberg RK, Sanford E, Bay RA. 2025. The effects of latitudinal gradients, climatic anomalies, and size-selective harvesting on the adaptive potential of an intertidal gastropod. Evolutionary Applications. E70159.    
+
+Rumberger C, Armstrong M, Kim M, Ponce R, Melendez J, DeBiasse M, Caplins S, Bay RA. 2025. Selection over small and large spatial scales in the face of high gene flow. Molecular Ecology. e17700.    
+
+Armstrong ML, Bala S, Bay RA. 2025. Developmental and transcriptomic responses in sea urchin larvae to an urban-associated pollutant. Ecology and Evolution. e72183.     
+
+Dias T, Lemoine NP, Yanco SW, Zimova M, Bay RA, Weeks BC. 2025. Long-term increases in wing length occur independently of changes in climate and climate-driven shifts in body size. Proceedings of the Royal Society B. 292:20242556.    
+
+Adams N, Dias T, Skeen HR, Pegan T, Willard DE, Winger B, Ruegg K, Weeks BC, Bay RA. 2025. Genetic and morphological shifts associated with climate change in a migratory bird. BMC Biology. 23:3.    
+
+### 2024
+
+Guerrero L, Bay RA. 2024. Patterns of methylation and transcriptional plasticity during thermal acclimation in a reef-building coral. Evolutionary Applications.     
+
+Nielsen ES, Walkes S, Sones JL, Fenberg PB, Paz-García DA, Cameron BB, Grosberg RK, Sanford E, Bay RA. 2024. Pushed waves, trailing edges, and extreme events: Eco-evolutionary dynamics of a geographic range shift in the owl limpet, *Lottia gigantea*. Global Change Biology. e17414.     
+
+### 2023
+
+Turbek, SP, Bossu C, Rayne C, Gruppi C, Kus BE, Whitfield M, Smith TB, Paxton EH, Bay RA, Ruegg KC. 2023 Historical DNA reveals climate adaptation in an endangered songbird. Nature Climate Change. 13:735-741.    
+
+Barr K, Bossu CM, Bay RA, Anderson EC, Belthoff J, Trulio LA, Chromczak D, Wisinski CL, Smith TB, Ruegg KC. 2023. Genetic and environmental drivers of migratory behavior in western burrowing owls and the implications for conservation and management. Evolutionary Applications. 16:1889-1900.     
+
+Adams NA, Bandivadekar RR, Battey CJ, Clark MW, Epperly K, Ruegg K, Tell LA, Bay RA. 2023. Widespread gene flow following range expansion in Anna’s Hummingbird. Molecular Ecology. 32:3089-3101.    
+
+Schiebelhut LM, Grosberg RK, Stachowicz JJ, Bay RA. 2023. Genomic responses to parallel temperature gradients in the eelgrass *Zostera marina* in adjacent bays. Molecular Ecology. 32:2835-2849.    
+
+### 2022
+
+Alvarado AH, Bossu CM, Harrigan RJ, Bay RA, Nelson AR, Smith TB, Ruegg KC. 2022. Genotype-environment associations across spatial scales reveal the importance of putative adaptive genetic variation in divergence. Evolutionary Applications. 15:1390-1407.     
+
+### 2021
+
+Bay RA, Karp D, Saracco J, Anderegg W, Frishkoff L, Wiedenfeld D, Smith T, Ruegg K. 2021.  Genetic variation reveals individual-level climate tracking across the annual cycle of a migratory bird. Ecology Letters. 24:819-828.    
+
+Ruegg KC, Anderson EC, Somveille M, Whitfield M, Paxton EH, Smith TB. 2021. Linking climate niches across seasons to assess population vulnerability in a migratory bird. Global Change Biology. 27:3519-3531.     
+
+Ruegg KC, Brinkmeyer M, Bossu CM, Bay RA, Anderson EC, Boal CW, Dawson RD, Eschenbauch A, McClure CJW, Miller KE, Morrow J, Morrow L, Oleyar D, Ralph B, Schulwitz S, Swem T, Therrien JF, Smith T, Heath J. 2021. The American Kestrel genoscape (*Falco sparverius*): Implications for monitoring, management, and subspecies boundaries. In press at The Auk. 138:ukaa051.     
+
+Rose NH, Bay RA, Morikawa MK, Thomas L, Sheets EA, Palumbi SR. Genomic analysis of distinct bleaching tolerances among cryptic coral species. 2021. Proceedings of the Royal Society B. 288:20210678.     
+
+Somveille M, Bay RA, Smith T, Marra P, Ruegg K. 2021. A general theory of avian migratory connectivity. Ecology Letters. 24:1848-1858.     
+
+### 2020
+
+Capblancq T, Fitzpatrick MC, Bay RA, Exposito-Alonso M, Keller SR. 2020. Genomic prediction of (mal) adaptation across current and future climatic landscapes. Annual Review of Ecology, Evolution, and Systematics. 51:245-269.     
+
+Barr K, Beichman AC, Kalhori P, Rajbhandary J, Bay RA, Ruegg KR, Smith TB. 2021. Persistent panmixia despite extreme habitat loss and population decline in the threatened Tricolored Blackbird (*Agelaius tricolor*). Evolutionary Applications. 14:674-684.    
+
+Bay RA, Guerrero L. 2020. Can genomes predict coral bleaching? Science. 369:249-250.    
+
+### 2019
+
+Bay RA, Taylor EB, Schluter D. 2019. Parallel introgression and selection on introduced alleles in a native species. Molecular Ecology. 28:2802-2813.     
+
+Chavarria-Pizarro T, Gomez JP, Ungvari-Martin J, Bay RA, Miyamoto MM, Kimball R. 2019. Strong phenotypic divergence in spite of low genetic structure in the endemic Mangrove Warbler subspecies (*Setophaga petechia xanthotera*) of Costa Rica. Ecology and Evolution. 9:13902-13918.     
+
+### Pre-2018
+Cunning R, Bay RA, Gillette P, Baker AC, Traylor-Knowles N. 2018. Comparative analysis of the *Pocillopora damicornis* genome highlights role of immune system in coral evolution. Scientific Reports. 8:16134.     
+
+Bay RA, Harrigan R, Underwood WL, Gibbs HL, Smith TB, Ruegg K. 2018. Genomic signals of selection predict climate-driven population declines. Science. 359:83-86.     
+
+Ruegg K, Bay RA, Harrigan RJ, Saracco JF, Anderson EC, Whitfield M, Paxton EH, Smith TB. 2018. Ecological genomics predicts climate vulnerability in an Endangered Southwestern Songbird. Ecology Letters. 21:1085-1096.     
+
+Thomas L, Rose, NH, Bay RA, Morikawa MK, Lopez E, Palumbi SR. 2018. Mechanisms of thermal tolerance in reef-building corals across a fine-grained environmental mosaic. Frontiers in Marine Science. 4:434.    
+
+Contina A, Bay RA, Ruegg K, Underwood VL, Smith TB, Bridge ES, Kelly JF. 2017. Characterization of SNP markers for the Painted Bunting (*Passerina ciris*) and their relevance in population differentiation and genome evolution studies. Conservation Genetics Resources. 1-6.    
+
+Rose NH, Bay RA, Morikawa MK, Palumbi SR. 2018. Polygenic evolution drives species divergence and climate adaptation in corals. Evolution. 72:82-94.     
+
+Bay RA, Arnegard ME, Conte GL, Best J, Bedford NL, McCann SR, Dubin ME, Chan YF, Jones, FC, Kingsley DM, Schluter D, Peichel K. 2017. Genetic coupling of female mate choice with polygenic ecological divergence facilitates stickleback speciation. Current Biology. 27:3344-3349.     
+
+Bay RA, Rose NH, Logan C, Palumbi SR. 2017. Genomic models predict coral adaptation to mitigated but not current ocean warming rates. Science Advances. 3:e1701413.     
+
+Bay RA, Ruegg K. 2017. Genomic islands of divergence or adaptive introgression in a migratory songbird. Proceedings of the Royal Society B. 284:20162414.     
+
+Bay RA, Rose NH, Barrett R, Bernatchez L, Ghalambor CK, Lasky J, Brem RB, Palumbi SR, Ralph P. 2017. Predicting evolutionary responses to contemporary environmental change using population genomic data. The American Naturalist. 189:463-473.     
+
+Bay RA, Palumbi SR. 2017. Transcriptome predictors of coral survival and growth in a variable environment. Ecology and Evolution. 7:4794-4803.    
+
+Bay RA, Palumbi SR. 2015. Rapid acclimation ability mediated by transcriptome changes in reef-building corals. Genome Biology and Evolution. evv085.     
+
+Bay RA, Palumbi SR. 2014. Multilocus adaptation associated with heat resistance in reef-building corals. Current Biology. 24:2952-2956.     
+
+Palumbi SR, Barshis D, Traylor-Knowles N, Bay RA. 2014. Mechanisms of coral reef resistance to future climate change.  Science. 344:895-898.      
+
+Bay RA, Ramakrishnan U, Hadly EA. 2013. A call for tiger management using ‘reserves’ of genetic diversity. Journal of Heredity. est086.      
+
+Bay RA, Bielawski JP. 2013 Inference of functional divergence among proteins when the evolutionary process is non-stationary.  Journal of Molecular Evolution. 76: 205-215.      
+
+Bay RA, Bielawski JP. 2012. Recombination detection under evolutionary scenarios relevant to functional divergence. Journal of Molecular Evolution. 73: 273-286. 
+

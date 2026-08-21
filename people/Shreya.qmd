@@ -1,0 +1,29 @@
+---
+title: "Shreya Banerjee"
+image: "/images/Shreya.jpg"
+image-alt: "A photo of Shreya Banerjee"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+  links:
+    - icon: envelope
+      href: mailto:smbanerj@ucdavis.edu
+    - icon: github
+      href: https://github.com/smbanerjee
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?hl=en&user=XjKy0WEAAAAJ&view_op=list_works&sortby=pubdate
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+
+I am a PhD Student in the Bay Lab and the Population Biology Graduate Group at UC Davis, where I am investigating the eco-evolutionary responses to environmental stress in ribbed limpets (cryptic species complex: *Lottia digitalis* and *Lottia austrodigitalis*. More broadly, my research interests lie in characterizing the adaptive potential of populations and understanding how marine species will respond to climate change. I am excited about using genomic tools to answer questions that affect conservation and how people can feed themselves from marine resources. I am also passionate about environmental and social justice. Outside of science, I enjoy yoga, dancing, hiking, and napping on the beach. 
+
+## Education
+MS in Marine Biology | Scripps Institution of Oceanography, UC San Diego | 2017    
+BS in Environmental Systems Ecology, Behavior, & Evolution | University of California San Diego | 2017
+
+:::
+:::

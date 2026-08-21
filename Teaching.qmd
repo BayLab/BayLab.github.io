@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+page-layout: full
+---
+**Intro to Ecology and Evolution (BIS2B):** This is a large lecture course for UC Davis undergraduates. It is designed to provide foundational knowledge in ecology and evolution. It is offered in every quarter and Rachael teaches a quarter every other year. 
+
+---
+
+**Molecular Ecology (EVE 109):** This course provides a survey of molecular methods used to understand ecology, evolution, and conservation in natural populations. It is designed for upper division undergraduates or early career graduate students and is taught every other year. Sections are used to give students experience in hands-on analysis of genetic data using R and students complete an independent project. R tutorials used in section are available [here](https://baylab.github.io/EVE109).
+
+---
+
+**Principles of Population Biology (PBG 201):** This is the core course for the Population Biology Graduate Group. I co-teach this section of the core course in the fall quarter. During this time, I teach ecological genomics, giving students basic knowledge in genomic technology and analysis in natural systems.
+
+---
+
+**Intro to Genomics in Natural Populations:** My lab offers a one credit course introducing students to basic skills they might need to begin research using genomic tools. The course provides practice in bioinformatics and genomics analysis using both bash and R. These includePostdoc Serena Caplins taught a class on Marine Genomics, which provided basic practice in bioinformatics and genomic analysis in R, with particular focus on methods and theory relevant to marine systems. All the materials for this course are openly available [here](https://baylab.github.io/IntroGenomics/)
+

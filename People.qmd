@@ -1,0 +1,18 @@
+---
+title: "People"
+subtitle: "Meet the team!"
+page-layout: full
+listing:
+- id: lab-member
+  sort: false
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 12rem
+  filter-ui: false
+  sort-ui: false
+  contents:
+    - people.yml
+---
+

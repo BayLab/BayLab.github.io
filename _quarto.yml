@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: 'THE BAY LAB | <span style="color:#3d73b9">UC Davis</span>'
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - Research.qmd
+      - People.qmd
+      - Publications.qmd
+      - Teaching.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    fontsize: x-large
+    toc: true
+
+
+

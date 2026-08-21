@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/Research.html",
+    "items": []
+  },
+  {
+    "listing": "/People.html",
+    "items": [
+      "/people/Rachael.html",
+      "/people/Shreya.html",
+      "/people/Katie.html",
+      "/people/Kenzie.html",
+      "/people/Ben.html"
+    ]
+  }
+]

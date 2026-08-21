@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "THE BAY LAB | <span style=\"color:#3d73b9\">UC Davis</span>",
+    "section": "",
+    "text": "The Bay Lab at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "In the Bay Lab, we combine genomic tools with physiological experiments, ecological observations, and large-scale environmental data to learn about how organisms exist in a range of environments and understand how anthropogenic changes in the environment impact individuals, populations, and species. We work in a diverse range of marine systems. Some of the main research themes are summarized below.\n\n\n\nIntra-specific variation in coral thermal tolerance\n\n\n\n\n \n\nHeritable phenotypic variation provides the building blocks for adaptation to future environmental change. In reef-building corals, individuals respond differently to the exact same heat stress event; some bleach and die while other survive. We wonder why this variation exists, how it is maintained, and whether it will fuel future adaptation. Our previous work established differences in fitness-related traits (survival and growth) across a small-scale temperature gradient and identified genetic variation associated with individuals living in hotter environments. We are now combining new sequence technologies, large scale ecological experiments, and sampling across full species distributions to understand the genetic component of thermal tolerance and it may fuel adaptation over space and time.\n\n\n\n\n\nEco-evolutionary dynamics of range shifts\n\n\nUnder anthropogenic climate change, the notion that biogeographic boundaries are stable over ecological timescales is no longer tenable. Examples of rapid range shifts associated with climate change now prevail across both terrestrial and marine systems. Such contemporary shifts in species’ distributions may have profound impacts on population dynamics, species interactions, and ecosystem function, and highlight the urgency for understanding and predicting responses to climate change. At the same time, they provide unique opportunities to disentangle fundamental demographic and selective processes that occur during range shifts. We are currently working to understand evolutionary causes and consequences of range shifts. In owl limpets, we have shown that the leading edge of the range expansion harbors high genetic diversity, fueled by gene flow from the range core. At the same time, the trailing range edge supports more population structure and likely more adaptive variation. These studies can further add to our understanding of the evolutionary effects of human-induced range shifts.\n\n \n\n\n\n\n\n\n\nAdaptation at across spatial scales\n\n\n\n\n \n\nMany species inhabit a wide range of environments. One mechanism allowing species to persist across such a broad environmental gradients is adaptation to local conditions. In eelgrass (Zostera marina) local adaptation can exist over small spatial scales, but whether that response is predictable across larger spatial scales remains unknown. We are combining seascape genomics with ecological experiments to understand the genetic basis of local adaptation in eelgrass and determine the degree to which that is predictable across populations. Our previous work showed that genetic variation is highly structured across two adjacent bays and despite little overlap in genetic variants with strong signals of selection, polygenic scores could be transferred acrosss bayes. This suggests a some degree of parallel genetic response across the two temperature gradients. We are now working expand the geographic scope of this investigation in order to understand the limits to these predictions."
+  },
+  {
+    "objectID": "People.html",
+    "href": "People.html",
+    "title": "People",
+    "section": "",
+    "text": "Rachael Bay\n\n\nPI\n\n\n\n\n\n\n\n\n\n\n\n\nBrenda Cameron\n\n\nLab Manager\n\n\n\n\n\n\n\n\n\n\n\n\nShreya Banerjee\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nKatie Erickson\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nKenzie Pollard\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nBen Moran\n\n\nPostdoc\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/Rachael.html",
+    "href": "people/Rachael.html",
+    "title": "Rachael Bay",
+    "section": "",
+    "text": "I am interested in how human influences on the environment alter the evolutionary trajectories of organisms. I use a combination of ecological experiments and genomic analysis to identify genetic variation underlying adaptation in natural populations and to understand how adaptive variation is distributed across environments. I am particularly interested in developing predictive genomic frameworks that can be used to estimate the potential for adaptation to future environmental change. I have a particular fondness for marine systems, although I have worked in a broad range of taxa. In my spare time I enjoy baking, hiking, and spending time with my husband and toddler.\n\n\nPhD in Biology | Stanford University | 2015\nMSc in biology | Dalhousie University | 2010\nBS in Marine Science | University of Miami | 2007"
+  },
+  {
+    "objectID": "people/Rachael.html#education",
+    "href": "people/Rachael.html#education",
+    "title": "Rachael Bay",
+    "section": "",
+    "text": "PhD in Biology | Stanford University | 2015\nMSc in biology | Dalhousie University | 2010\nBS in Marine Science | University of Miami | 2007"
+  },
+  {
+    "objectID": "people/Shreya.html",
+    "href": "people/Shreya.html",
+    "title": "Shreya Banerjee",
+    "section": "",
+    "text": "I am a PhD Student in the Bay Lab and the Population Biology Graduate Group at UC Davis, where I am investigating the eco-evolutionary responses to environmental stress in ribbed limpets (cryptic species complex: Lottia digitalis and Lottia austrodigitalis. More broadly, my research interests lie in characterizing the adaptive potential of populations and understanding how marine species will respond to climate change. I am excited about using genomic tools to answer questions that affect conservation and how people can feed themselves from marine resources. I am also passionate about environmental and social justice. Outside of science, I enjoy yoga, dancing, hiking, and napping on the beach.\n\n\nMS in Marine Biology | Scripps Institution of Oceanography, UC San Diego | 2017\nBS in Environmental Systems Ecology, Behavior, & Evolution | University of California San Diego | 2017"
+  },
+  {
+    "objectID": "people/Shreya.html#education",
+    "href": "people/Shreya.html#education",
+    "title": "Shreya Banerjee",
+    "section": "",
+    "text": "MS in Marine Biology | Scripps Institution of Oceanography, UC San Diego | 2017\nBS in Environmental Systems Ecology, Behavior, & Evolution | University of California San Diego | 2017"
+  },
+  {
+    "objectID": "people/Katie.html",
+    "href": "people/Katie.html",
+    "title": "Katie Erickson",
+    "section": "",
+    "text": "I am a PhD Candidate in the Population Biology Graduate Group and Bay Lab at UC Davis. My dissertation is focused around understanding the evolutionary dynamics of a large chromosomal inversion in eelgrass, Zostera marina. More broadly, I am interested in the genomic basis of local adaptation and parallel evolution. I combine field work and experiments with a variety of sequencing technologies to contribute to our understanding of and ability to conserve ecologically-important marine organisms.\nOutside of my dissertation, I am eager to connect my scientific background to my passions of outreach and art. My most recent project endeavor is in conjunction with n-girls collective, in which I served as a fashion designer and host of an eco-trash fashion show at the Bodega Marine Lab as part of the Russell J. and Dorothy S. Bilinski Fellowship.\n\n\nBS in Mathematical and Computational Biology | Harvey Mudd College | 2019"
+  },
+  {
+    "objectID": "people/Katie.html#education",
+    "href": "people/Katie.html#education",
+    "title": "Katie Erickson",
+    "section": "",
+    "text": "BS in Mathematical and Computational Biology | Harvey Mudd College | 2019"
+  },
+  {
+    "objectID": "people/Kenzie.html",
+    "href": "people/Kenzie.html",
+    "title": "Kenzie Pollard",
+    "section": "",
+    "text": "I am a PhD student in Population Biology co-advised by Dr. Rachael Bay and Dr. Anya Brown where I am investigating cryptic Acropora species in the Cook Islands. This project looks to answer questions regarding the distribution of cryptic species and the eco-evolutionary consequences of various abiotic and biotic drivers such as symbiont association and temperature. I am broadly interested in adaptation and plasticity both between and within species and what allows species or individuals to live and prosper where they are.\nMy mood is directly correlated with my proximity to the ocean. I love tide-pooling, diving, snorkeling, camping, and hiking. Apart from nature related activities, I have 2 tuxedo cats named Watson and Percival and I enjoy stationery, crocheting, and reading.\nWebsite: https://themindfulacademic.blog\n\n\nMS in Biology | University of Guam | 2022\nBS in Ecology, Evolution, and Biodiversity | University of California Davis | 2019"
+  },
+  {
+    "objectID": "people/Kenzie.html#education",
+    "href": "people/Kenzie.html#education",
+    "title": "Kenzie Pollard",
+    "section": "",
+    "text": "MS in Biology | University of Guam | 2022\nBS in Ecology, Evolution, and Biodiversity | University of California Davis | 2019"
+  },
+  {
+    "objectID": "people/Brenda.html",
+    "href": "people/Brenda.html",
+    "title": "Brenda Cameron",
+    "section": "",
+    "text": "Brenda is our lab manager extraordinaire. She has expertise in molecular lab protocols, marine invertebrates husbandry, experimental design, general organization, crafting, and baking. Basically, she keeps everything running!"
+  },
+  {
+    "objectID": "people/Ben.html",
+    "href": "people/Ben.html",
+    "title": "Ben Moran",
+    "section": "",
+    "text": "I am a postdoctoral researcher within the Bay Lab at UC Davis, where I am leading a collaborative network studying demography and cryptic diversity in the table coral, Acropora hyacinthus. I am broadly interested in how barriers to gene flow, whether geographic or organismal, can hinder or help adaptation and diversification. My work aims to deepen our understanding of these general evolutionary processes through the unique biology of corals, while simultaneously creating useful information for coral conservation.\nBeyond the lab, I find joy in fostering others’ love of the natural world through teaching, mentoring, and outreach. In addition to being a font of fun fish facts, I have taught undergraduate organismal biology courses and co-led Scientists Speak Up, a graduate student organization promoting effective communication on politically and emotionally charged scientific subjects.\nI grew up in the sticks outside Minerva, Ohio, where I developed a love for wandering the woods and picking up things that a reasonable person probably wouldn’t pick up. Outside the university, I can be found backpacking, diving, climbing, making music, cooking, and reading.\nWebsite: https://benmmoran.weebly.com/\n\n\nPhD in Biology | Stanford University | 2025\nBS in Marine Biology | Northeastern Unversity | 2018"
+  },
+  {
+    "objectID": "people/Ben.html#education",
+    "href": "people/Ben.html#education",
+    "title": "Ben Moran",
+    "section": "",
+    "text": "PhD in Biology | Stanford University | 2025\nBS in Marine Biology | Northeastern Unversity | 2018"
+  },
+  {
+    "objectID": "Research.html#coral",
+    "href": "Research.html#coral",
+    "title": "Research",
+    "section": "Coral",
+    "text": "Coral\n\n\n\n\n\nA photo of a coral reef\n\n\n\n\nCoral\nStuff about coral."
+  },
+  {
+    "objectID": "Research.html#limpets",
+    "href": "Research.html#limpets",
+    "title": "Research",
+    "section": "Limpets",
+    "text": "Limpets\n\n\n\n\n \n\nStuff about coral.\n\n\n\nMolecular mechanisms of thermal tolerance in coral\n\n\n\n\n \n\nStuff about coral."
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For an up to date list of publications, see Google Scholar\n\n\n2026\nBalakrishnan CN et al. 2026. Genomic and physiological changes in a sexually selected and frugivorous bird radiation. Current Biology. 3061-3076.\nBemmels JB, Kroeker KJ, Palumbi SR, Bay RA, Gruenthal KM, Lindstron SC, Osmond MM, Owens GL. 2026. Spatial inference of ancestor locations suggests northern refugia for canopy-forming kelps in the Pacific Northwest. New Phytologist.\nTautz D, Pallares LF, Andersson L, Barghi N, Barton N, Bay RA, Chan YF, Hancock A, Kaiser TS, Koenig D, Kontarakis Z, Liedvogel M, De Meaux J, Nordborg M, Palmer AA, Purugganan M, Schlötterer C, Schmid K, Stainier DYR, Weigel D, Wolf JBW, Ebert D, Gibson G. Beyond Mendel: A call to revisit the genotype-phenotype map through new experimental paradigms. 2026. Genetics. iyag024.\n\n\n2025\nRodriguez MD, Bossu CM, Anderson EC, Bay RA, Ruegg KC. 2025. Genetic, phenotypic, and environmental drivers of local adaptation and climate change-induced maladaptation in a migratory songbird. PNAS. e2518497122.\nRodriguez MD, Bay RA, Ruegg KC. 2025. Telomere length differences indicate climate change-induced stress and population decline in a migratory bird. 2025. Molecular Ecology. e17642.\nNielsen ES, Walkes S, Sones JL, Fenberg PB, Paz-García DA, Grosberg RK, Sanford E, Bay RA. 2025. The effects of latitudinal gradients, climatic anomalies, and size-selective harvesting on the adaptive potential of an intertidal gastropod. Evolutionary Applications. E70159.\nRumberger C, Armstrong M, Kim M, Ponce R, Melendez J, DeBiasse M, Caplins S, Bay RA. 2025. Selection over small and large spatial scales in the face of high gene flow. Molecular Ecology. e17700.\nArmstrong ML, Bala S, Bay RA. 2025. Developmental and transcriptomic responses in sea urchin larvae to an urban-associated pollutant. Ecology and Evolution. e72183.\nDias T, Lemoine NP, Yanco SW, Zimova M, Bay RA, Weeks BC. 2025. Long-term increases in wing length occur independently of changes in climate and climate-driven shifts in body size. Proceedings of the Royal Society B. 292:20242556.\nAdams N, Dias T, Skeen HR, Pegan T, Willard DE, Winger B, Ruegg K, Weeks BC, Bay RA. 2025. Genetic and morphological shifts associated with climate change in a migratory bird. BMC Biology. 23:3.\n\n\n2024\nGuerrero L, Bay RA. 2024. Patterns of methylation and transcriptional plasticity during thermal acclimation in a reef-building coral. Evolutionary Applications.\nNielsen ES, Walkes S, Sones JL, Fenberg PB, Paz-García DA, Cameron BB, Grosberg RK, Sanford E, Bay RA. 2024. Pushed waves, trailing edges, and extreme events: Eco-evolutionary dynamics of a geographic range shift in the owl limpet, Lottia gigantea. Global Change Biology. e17414.\n\n\n2023\nTurbek, SP, Bossu C, Rayne C, Gruppi C, Kus BE, Whitfield M, Smith TB, Paxton EH, Bay RA, Ruegg KC. 2023 Historical DNA reveals climate adaptation in an endangered songbird. Nature Climate Change. 13:735-741.\nBarr K, Bossu CM, Bay RA, Anderson EC, Belthoff J, Trulio LA, Chromczak D, Wisinski CL, Smith TB, Ruegg KC. 2023. Genetic and environmental drivers of migratory behavior in western burrowing owls and the implications for conservation and management. Evolutionary Applications. 16:1889-1900.\nAdams NA, Bandivadekar RR, Battey CJ, Clark MW, Epperly K, Ruegg K, Tell LA, Bay RA. 2023. Widespread gene flow following range expansion in Anna’s Hummingbird. Molecular Ecology. 32:3089-3101.\nSchiebelhut LM, Grosberg RK, Stachowicz JJ, Bay RA. 2023. Genomic responses to parallel temperature gradients in the eelgrass Zostera marina in adjacent bays. Molecular Ecology. 32:2835-2849.\n\n\n2022\nAlvarado AH, Bossu CM, Harrigan RJ, Bay RA, Nelson AR, Smith TB, Ruegg KC. 2022. Genotype-environment associations across spatial scales reveal the importance of putative adaptive genetic variation in divergence. Evolutionary Applications. 15:1390-1407.\n\n\n2021\nBay RA, Karp D, Saracco J, Anderegg W, Frishkoff L, Wiedenfeld D, Smith T, Ruegg K. 2021. Genetic variation reveals individual-level climate tracking across the annual cycle of a migratory bird. Ecology Letters. 24:819-828.\nRuegg KC, Anderson EC, Somveille M, Whitfield M, Paxton EH, Smith TB. 2021. Linking climate niches across seasons to assess population vulnerability in a migratory bird. Global Change Biology. 27:3519-3531.\nRuegg KC, Brinkmeyer M, Bossu CM, Bay RA, Anderson EC, Boal CW, Dawson RD, Eschenbauch A, McClure CJW, Miller KE, Morrow J, Morrow L, Oleyar D, Ralph B, Schulwitz S, Swem T, Therrien JF, Smith T, Heath J. 2021. The American Kestrel genoscape (Falco sparverius): Implications for monitoring, management, and subspecies boundaries. In press at The Auk. 138:ukaa051.\nRose NH, Bay RA, Morikawa MK, Thomas L, Sheets EA, Palumbi SR. Genomic analysis of distinct bleaching tolerances among cryptic coral species. 2021. Proceedings of the Royal Society B. 288:20210678.\nSomveille M, Bay RA, Smith T, Marra P, Ruegg K. 2021. A general theory of avian migratory connectivity. Ecology Letters. 24:1848-1858.\n\n\n2020\nCapblancq T, Fitzpatrick MC, Bay RA, Exposito-Alonso M, Keller SR. 2020. Genomic prediction of (mal) adaptation across current and future climatic landscapes. Annual Review of Ecology, Evolution, and Systematics. 51:245-269.\nBarr K, Beichman AC, Kalhori P, Rajbhandary J, Bay RA, Ruegg KR, Smith TB. 2021. Persistent panmixia despite extreme habitat loss and population decline in the threatened Tricolored Blackbird (Agelaius tricolor). Evolutionary Applications. 14:674-684.\nBay RA, Guerrero L. 2020. Can genomes predict coral bleaching? Science. 369:249-250.\n\n\n2019\nBay RA, Taylor EB, Schluter D. 2019. Parallel introgression and selection on introduced alleles in a native species. Molecular Ecology. 28:2802-2813.\nChavarria-Pizarro T, Gomez JP, Ungvari-Martin J, Bay RA, Miyamoto MM, Kimball R. 2019. Strong phenotypic divergence in spite of low genetic structure in the endemic Mangrove Warbler subspecies (Setophaga petechia xanthotera) of Costa Rica. Ecology and Evolution. 9:13902-13918.\n\n\nPre-2018\nCunning R, Bay RA, Gillette P, Baker AC, Traylor-Knowles N. 2018. Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution. Scientific Reports. 8:16134.\nBay RA, Harrigan R, Underwood WL, Gibbs HL, Smith TB, Ruegg K. 2018. Genomic signals of selection predict climate-driven population declines. Science. 359:83-86.\nRuegg K, Bay RA, Harrigan RJ, Saracco JF, Anderson EC, Whitfield M, Paxton EH, Smith TB. 2018. Ecological genomics predicts climate vulnerability in an Endangered Southwestern Songbird. Ecology Letters. 21:1085-1096.\nThomas L, Rose, NH, Bay RA, Morikawa MK, Lopez E, Palumbi SR. 2018. Mechanisms of thermal tolerance in reef-building corals across a fine-grained environmental mosaic. Frontiers in Marine Science. 4:434.\nContina A, Bay RA, Ruegg K, Underwood VL, Smith TB, Bridge ES, Kelly JF. 2017. Characterization of SNP markers for the Painted Bunting (Passerina ciris) and their relevance in population differentiation and genome evolution studies. Conservation Genetics Resources. 1-6.\nRose NH, Bay RA, Morikawa MK, Palumbi SR. 2018. Polygenic evolution drives species divergence and climate adaptation in corals. Evolution. 72:82-94.\nBay RA, Arnegard ME, Conte GL, Best J, Bedford NL, McCann SR, Dubin ME, Chan YF, Jones, FC, Kingsley DM, Schluter D, Peichel K. 2017. Genetic coupling of female mate choice with polygenic ecological divergence facilitates stickleback speciation. Current Biology. 27:3344-3349.\nBay RA, Rose NH, Logan C, Palumbi SR. 2017. Genomic models predict coral adaptation to mitigated but not current ocean warming rates. Science Advances. 3:e1701413.\nBay RA, Ruegg K. 2017. Genomic islands of divergence or adaptive introgression in a migratory songbird. Proceedings of the Royal Society B. 284:20162414.\nBay RA, Rose NH, Barrett R, Bernatchez L, Ghalambor CK, Lasky J, Brem RB, Palumbi SR, Ralph P. 2017. Predicting evolutionary responses to contemporary environmental change using population genomic data. The American Naturalist. 189:463-473.\nBay RA, Palumbi SR. 2017. Transcriptome predictors of coral survival and growth in a variable environment. Ecology and Evolution. 7:4794-4803.\nBay RA, Palumbi SR. 2015. Rapid acclimation ability mediated by transcriptome changes in reef-building corals. Genome Biology and Evolution. evv085.\nBay RA, Palumbi SR. 2014. Multilocus adaptation associated with heat resistance in reef-building corals. Current Biology. 24:2952-2956.\nPalumbi SR, Barshis D, Traylor-Knowles N, Bay RA. 2014. Mechanisms of coral reef resistance to future climate change. Science. 344:895-898.\nBay RA, Ramakrishnan U, Hadly EA. 2013. A call for tiger management using ‘reserves’ of genetic diversity. Journal of Heredity. est086.\nBay RA, Bielawski JP. 2013 Inference of functional divergence among proteins when the evolutionary process is non-stationary. Journal of Molecular Evolution. 76: 205-215.\nBay RA, Bielawski JP. 2012. Recombination detection under evolutionary scenarios relevant to functional divergence. Journal of Molecular Evolution. 73: 273-286."
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Intro to Ecology and Evolution (BIS2B): This is a large lecture course for UC Davis undergraduates. It is designed to provide foundational knowledge in ecology and evolution. It is offered in every quarter and Rachael teaches a quarter every other year.\n\nMolecular Ecology (EVE 109): This course provides a survey of molecular methods used to understand ecology, evolution, and conservation in natural populations. It is designed for upper division undergraduates or early career graduate students and is taught every other year. Sections are used to give students experience in hands-on analysis of genetic data using R and students complete an independent project. R tutorials used in section are available here.\n\nPrinciples of Population Biology (PBG 201): This is the core course for the Population Biology Graduate Group. I co-teach this section of the core course in the fall quarter. During this time, I teach ecological genomics, giving students basic knowledge in genomic technology and analysis in natural systems.\n\nIntro to Genomics in Natural Populations: My lab offers a one credit course introducing students to basic skills they might need to begin research using genomic tools. The course provides practice in bioinformatics and genomics analysis using both bash and R. These includePostdoc Serena Caplins taught a class on Marine Genomics, which provided basic practice in bioinformatics and genomic analysis in R, with particular focus on methods and theory relevant to marine systems. All the materials for this course are openly available here"
+  }
+]

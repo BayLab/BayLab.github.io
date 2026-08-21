@@ -1,0 +1,33 @@
+---
+title: "Kenzie Pollard"
+image: "/images/Kenzie.jpg"
+image-alt: "A photo of Kenzie Pollard"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+  links:
+    - icon: envelope
+      href: mailto:knpollard@ucdavis.edu
+    - icon: github
+      href: https://github.com/kenziepollard
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=a3BWpdMAAAAJ&hl=en&oi=ao
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+
+I am a PhD student in Population Biology co-advised by Dr. Rachael Bay and Dr. Anya Brown where I am investigating cryptic *Acropora* species in the Cook Islands. This project looks to answer questions regarding the distribution of cryptic species and the eco-evolutionary consequences of various abiotic and biotic drivers such as symbiont association and temperature. I am broadly interested in adaptation and plasticity both between and within species and what allows species or individuals to live and prosper where they are. 
+
+My mood is directly correlated with my proximity to the ocean. I love tide-pooling, diving, snorkeling, camping, and hiking. Apart from nature related activities, I have 2 tuxedo cats named Watson and Percival and I enjoy stationery, crocheting, and reading.
+
+**Website:** https://themindfulacademic.blog
+
+## Education
+MS in Biology | University of Guam | 2022    
+BS in Ecology, Evolution, and Biodiversity | University of California Davis | 2019
+
+:::
+:::

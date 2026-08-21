@@ -1,0 +1,12 @@
+---
+title: ""
+page-layout: full
+image: "images/logo_crop.png"
+image-alt: "a logo with marine organisms surrounding the words Bay Lab"
+about:
+  template: trestles
+---
+::: {style="font-size: 1.2em;"}
+The Bay Lab at UC Davis studies the ways in which human-induced environmental change alters evolutionary trajectories using a combination of ecological and physiological experiments and genomic data
+
+

@@ -1,0 +1,35 @@
+---
+title: "Ben Moran"
+image: "/images/Ben.jpeg"
+image-alt: "A photo of Shreya Banerjee"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+  links:
+    - icon: envelope
+      href: mailto:bmmoran@ucdavis.edu
+    - icon: github
+      href: https://github.com/benmoran11
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=RN1MLk0AAAAJ&hl=e
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+
+I am a postdoctoral researcher within the Bay Lab at UC Davis, where I am leading a collaborative network studying demography and cryptic diversity in the table coral, *Acropora hyacinthus*. I am broadly interested in how barriers to gene flow, whether geographic or organismal, can hinder or help adaptation and diversification. My work aims to deepen our understanding of these general evolutionary processes through the unique biology of corals, while simultaneously creating useful information for coral conservation. 
+
+Beyond the lab, I find joy in fostering others' love of the natural world through teaching, mentoring, and outreach. In addition to being a font of fun fish facts, I have taught undergraduate organismal biology courses and co-led Scientists Speak Up, a graduate student organization promoting  effective communication on politically and emotionally charged scientific subjects.
+
+I grew up in the sticks outside Minerva, Ohio, where I developed a love for wandering the woods and picking up things that a reasonable person probably wouldn't pick up. Outside the university, I can be found backpacking, diving, climbing, making music, cooking, and reading.
+
+**Website:** https://benmmoran.weebly.com/
+
+## Education
+PhD in Biology | Stanford University | 2025    
+BS in Marine Biology | Northeastern Unversity | 2018
+
+:::
+:::

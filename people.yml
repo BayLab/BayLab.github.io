@@ -1,0 +1,38 @@
+
+  - image: "/images/Rachael.jpg"
+    image-alt: "A photo of Rachael Bay"
+    title: "Rachael Bay"
+    subtitle: "PI"
+    path: "people/Rachael.qmd"
+  
+  - image: "/images/Brenda.jpg"
+    image-alt: "A photo of Brenda Cameron"
+    title: "Brenda Cameron"
+    subtitle: "Lab Manager"
+    path: "people/Brenda"
+    
+  - image: "images/Shreya.jpg"
+    image-alt: "A photo of Shreya Banerjee"
+    title: "Shreya Banerjee"
+    subtitle: "PhD Student"
+    path: "people/Shreya.qmd"
+  
+  - image: "images/Katie.jpeg"
+    image-alt: "A photo of Katie Erickson"
+    title: "Katie Erickson"
+    subtitle: "PhD Student"
+    path: "people/Katie.qmd"
+
+  - image: "images/Kenzie.jpg"
+    image-alt: "A photo of Kenzie Pollard"
+    title: "Kenzie Pollard"
+    subtitle: "PhD Student"
+    path: "people/Kenzie.qmd"
+
+  - image: "images/Ben.jpeg"
+    image-alt: "A photo of Ben Moran"
+    title: "Ben Moran"
+    subtitle: "Postdoc"
+    path: "people/Ben.qmd"
+ 
+    
