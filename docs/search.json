@@ -25,7 +25,7 @@
     "href": "People.html",
     "title": "People",
     "section": "",
-    "text": "Rachael Bay\n\n\nPI\n\n\n\n\n\n\n\n\n\n\n\n\nBrenda Cameron\n\n\nLab Manager\n\n\n\n\n\n\n\n\n\n\n\n\nShreya Banerjee\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nKatie Erickson\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nKenzie Pollard\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nBen Moran\n\n\nPostdoc\n\n\n\n\n\nNo matching items"
+    "text": "Rachael Bay\n\n\nPI\n\n\n\n\n\n\n\n\n\n\n\n\nBrenda Cameron\n\n\nLab Manager\n\n\n\n\n\n\n\n\n\n\n\n\nShreya Banerjee\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nKatie Erickson\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nKenzie Pollard\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nBen Moran\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\nAnusha Bishop\n\n\nPostdoc\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/Rachael.html",
@@ -131,5 +131,19 @@
     "title": "Teaching",
     "section": "",
     "text": "Intro to Ecology and Evolution (BIS2B): This is a large lecture course for UC Davis undergraduates. It is designed to provide foundational knowledge in ecology and evolution. It is offered in every quarter and Rachael teaches a quarter every other year.\n\nMolecular Ecology (EVE 109): This course provides a survey of molecular methods used to understand ecology, evolution, and conservation in natural populations. It is designed for upper division undergraduates or early career graduate students and is taught every other year. Sections are used to give students experience in hands-on analysis of genetic data using R and students complete an independent project. R tutorials used in section are available here.\n\nPrinciples of Population Biology (PBG 201): This is the core course for the Population Biology Graduate Group. I co-teach this section of the core course in the fall quarter. During this time, I teach ecological genomics, giving students basic knowledge in genomic technology and analysis in natural systems.\n\nIntro to Genomics in Natural Populations: My lab offers a one credit course introducing students to basic skills they might need to begin research using genomic tools. The course provides practice in bioinformatics and genomics analysis using both bash and R. These includePostdoc Serena Caplins taught a class on Marine Genomics, which provided basic practice in bioinformatics and genomic analysis in R, with particular focus on methods and theory relevant to marine systems. All the materials for this course are openly available here"
+  },
+  {
+    "objectID": "people/Anusha.html",
+    "href": "people/Anusha.html",
+    "title": "Anusha Bishop",
+    "section": "",
+    "text": "I am interested in how landscape and seascape processes shape gene flow and genetic diversity. The aim of my research is to understand how evolution unfolds across space and to predict where and why different populations within a species may be vulnerable or resilient to ongoing environmental change. As a Simons Foundation International Fellow of the Life Sciences Research Foundation, I am working on mapping and modelling marine gene flow to predict the future of connectivity and genetic diversity in our changing oceans. I am also part of the Landscape Genomics Team for the California Conservation Genomics Project, where I am developing and applying new landscape genomic approaches to map, understand, and conserve genetic diversity in over 100 species across California.\nWebsite: https://anushapb.github.io/\n\n\nPhD in Environmental Science, Policy, and Management | UC Berkeley | 2026 BS in Ecology & Evolutionary Biology | Yale University | 2020"
+  },
+  {
+    "objectID": "people/Anusha.html#education",
+    "href": "people/Anusha.html#education",
+    "title": "Anusha Bishop",
+    "section": "",
+    "text": "PhD in Environmental Science, Policy, and Management | UC Berkeley | 2026 BS in Ecology & Evolutionary Biology | Yale University | 2020"
   }
 ]

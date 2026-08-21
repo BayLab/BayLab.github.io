@@ -34,5 +34,11 @@
     title: "Ben Moran"
     subtitle: "Postdoc"
     path: "people/Ben.qmd"
+  
+  - image: "images/Anusha.jpg"
+    image-alt: "A photo of Anusha Bishop"
+    title: "Anusha Bishop"
+    subtitle: "Postdoc"
+    path: "people/Anusha.qmd"
  
     

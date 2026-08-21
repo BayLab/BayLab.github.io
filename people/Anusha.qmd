@@ -1,0 +1,31 @@
+---
+title: "Anusha Bishop"
+image: "/images/Anusha.jpg"
+image-alt: "A photo of Anusha Bishop"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10rem
+  links:
+    - icon: envelope
+      href: mailto:anubishop@ucdavis.edu
+    - icon: github
+      href: https://github.com/AnushaPB
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=VSfYHyQAAAAJ&hl=en&oi=ao
+---
+
+:::{#hero-heading}
+::: {style="font-size: 0.8em;"}
+
+I am interested in how landscape and seascape processes shape gene flow and genetic diversity. The aim of my research is to understand how evolution unfolds across space and to predict where and why different populations within a species may be vulnerable or resilient to ongoing environmental change. As a Simons Foundation International Fellow of the Life Sciences Research Foundation, I am working on mapping and modelling marine gene flow to predict the future of connectivity and genetic diversity in our changing oceans. I am also part of the Landscape Genomics Team for the California Conservation Genomics Project, where I am developing and applying new landscape genomic approaches to map, understand, and conserve genetic diversity in over 100 species across California.
+
+**Website:** https://anushapb.github.io/
+
+## Education
+PhD in Environmental Science, Policy, and Management | UC Berkeley | 2026
+BS in Ecology & Evolutionary Biology | Yale University | 2020
+
+:::
+:::
