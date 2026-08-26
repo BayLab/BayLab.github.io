@@ -28,6 +28,12 @@
     title: "Kenzie Pollard"
     subtitle: "PhD Student"
     path: "people/Kenzie.qmd"
+    
+  - image: "images/Julianna.jpeg"
+    image-alt: "A photo of Julianna Porter"
+    title: "Julianna Porter"
+    subtitle: "PhD Student"
+    path: "people/Julianna.qmd"
 
   - image: "images/Ben.jpeg"
     image-alt: "A photo of Ben Moran"
