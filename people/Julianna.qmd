@@ -9,7 +9,7 @@ about:
   image-width: 10rem
   links:
     - icon: envelope
-      href: mailto:ulporter@ucdavis.edu
+      href: mailto:julporter@ucdavis.edu
     - icon: github
       href: https://github.com/juliannaporter
     - text: "{{< ai google-scholar >}}"
